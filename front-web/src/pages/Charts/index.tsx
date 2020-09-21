@@ -21,7 +21,7 @@ const initialPieData = {
     series: []
 }
 
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = 'https://project-sds1-weverson.herokuapp.com';
 
 const Charts = () => {
     const [barChartData, setBarChartData] = useState<BarChartData[]>([]);

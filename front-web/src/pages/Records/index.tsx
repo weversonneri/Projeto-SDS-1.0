@@ -7,7 +7,7 @@ import Pagination from './Pagination';
 import Filters from '../../components/Filters';
 
 
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = 'https://project-sds1-weverson.herokuapp.com';
 
 const Records = () => {
 
