@@ -4,6 +4,6 @@ Desenvolvimento e publicação de um aplicativo web usando Java com Spring Boot 
 Semana DevSuperior, edição 1.0;
 
 ID Certificado: 032882SDS1; </br>
-Link verificação de autenticidade: learn.devsuperior.com/certificados
+Link verificação de autenticidade: <link>learn.devsuperior.com/certificados</link>
 
 https://project-sds1-weverson.netlify.app/
